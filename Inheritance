@@ -1,0 +1,2 @@
+class baseClass:
+class derivedClass (baseclass):
