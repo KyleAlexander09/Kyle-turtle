@@ -1,0 +1,8 @@
+# Phython program to show single inheritance
+class a:
+    def_init_(self):
+          self.name = n
+class b(a):
+   def _init_(delf):
+          self.roll = roll
+          
